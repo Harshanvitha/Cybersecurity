@@ -1,5 +1,4 @@
 # Cybersecurity
-# Cyber-Security
 This is final Projectof IBM edunet cybersecurity internship
 
 ## Project Title: Steganography - Hiding Text Under Image
